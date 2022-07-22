@@ -7,7 +7,7 @@ export default function Homepage() {
     <div>
       <Carousel />
       <Fade bottom duration={1000} delay={600} distance="30px">
-        <section className="col-6 offset-3 mt-5">
+        <section className="col-xs-8 offset-xs-2 col-sm-6 offset-sm-3 mt-5">
           <h1 className="mb-5" style={{ fontSize: '4rem' }}>
             Welcome
           </h1>

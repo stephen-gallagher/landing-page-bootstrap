@@ -10,7 +10,7 @@ export default function Navigation() {
         style={{ position: 'sticky', top: '0', zIndex: 100 }}
       >
         <Container>
-          <Navbar.Brand href="/">Stephen's Revium Site</Navbar.Brand>
+          <Navbar.Brand href="/">SG Revium</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/page1">Page 1</Nav.Link>
             <Nav.Link href="/page2">Page 2</Nav.Link>
